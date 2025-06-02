@@ -1,5 +1,1 @@
-resource_group_name = "rg_TheInsightfulInnovators"
-location            = "eastus"
 app_name            = "cid-nodeapp"
-github_repo_url     = "https://github.com/iarunesh/CID_Scanning"
-github_branch       = "main"
